@@ -1,2 +1,3 @@
 # mando-app
-A type of food delivery for special users
+A type of food delivery application for special users
+
